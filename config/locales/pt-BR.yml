@@ -5,11 +5,11 @@ pt-BR:
     attributes:
       user:
         email:                  'Email'
-        name:                   'Nome'
+        name:                   'name'
         password:               'Senha'
         password_confirmation:  'Confirmação da senha'
       contact:
-        name:                   'Nome'
+        name:                   'name'
         phone:                  'Telefone'
     errors:
       messages:
